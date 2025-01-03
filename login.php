@@ -119,7 +119,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <body>
 
     <div class="container">
-        <h2 class="text-center">Login to Your Account</h2>
+        <h2 class="text-center">Welcome to My Daily Journal</h2>
 
         <?php
         if (isset($_SESSION['error'])) {
